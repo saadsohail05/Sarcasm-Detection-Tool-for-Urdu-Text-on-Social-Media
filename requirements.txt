@@ -1,0 +1,12 @@
+pandas
+seaborn
+matplotlib
+tensorflow
+urduhack
+demoji
+spacy
+scikit-learn
+gensim
+nltk
+numpy
+streamlit
